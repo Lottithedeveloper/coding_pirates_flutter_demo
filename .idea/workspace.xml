@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e914f598-12ef-4f54-8909-d0e4d77fe85b" name="Changes" comment="" />
+    <list default="true" id="e914f598-12ef-4f54-8909-d0e4d77fe85b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/c_p_demo/assets/coding_pirate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c_p_demo/lib/widgets/facts_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c_p_demo/lib/widgets/likes_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_p_demo/lib/min_app/min_app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/lib/min_app/min_app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_p_demo/lib/widgets/home_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/lib/widgets/home_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_p_demo/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugins.cmake" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -21,15 +48,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Flutter.min_app.dart.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
+    "io.flutter.reload.alreadyRun": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Emil/Documents/GitHub/coding_pirates_demo/c_p_demo",
+    "last_opened_file_path": "C:/Users/Emil/Documents/GitHub/coding_pirates_demo/c_p_demo/assets",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Emil\Documents\GitHub\coding_pirates_demo\c_p_demo\assets" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

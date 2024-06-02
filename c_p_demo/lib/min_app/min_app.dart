@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import '../widgets/home_widget.dart';
+import '../widgets/facts_widget.dart';
+import '../widgets/likes_widget.dart';
 
 void main() => runApp(const MinApp());
 
@@ -27,18 +30,9 @@ class _BottomNavigationBarExampleState
   static const TextStyle optionStyle =
   TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
   static const List<Widget> _widgetOptions = <Widget>[
-    Text(
-      'Index 0: Home',
-      style: optionStyle,
-    ),
-    Text(
-      'Index 1: Facts',
-      style: optionStyle,
-    ),
-    Text(
-      'Index 2: (Dis)likes',
-      style: optionStyle,
-    ),
+    HomeWidget(),
+    FactsWidget(),
+    LikesWidget(),
   ];
 
   void _onItemTapped(int index) {
@@ -51,7 +45,9 @@ class _BottomNavigationBarExampleState
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Min app :)'),
+        centerTitle: true,
+        title: const Text('Min app'),
+        backgroundColor:Colors.lightBlue[300],
       ),
       body: Center(
         child: _widgetOptions.elementAt(_selectedIndex),
