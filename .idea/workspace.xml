@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e914f598-12ef-4f54-8909-d0e4d77fe85b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/c_p_demo/assets/coding_pirate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_p_demo/lib/widgets/facts_widget.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c_p_demo/lib/widgets/likes_widget.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/c_p_demo/lib/widgets/bullet_list_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/coding_pirates_demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/coding_pirates_demo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c_p_demo/lib/min_app/min_app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/lib/min_app/min_app.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c_p_demo/lib/widgets/home_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/lib/widgets/home_widget.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugin_registrant.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugin_registrant.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/linux/flutter/generated_plugins.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c_p_demo/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugin_registrant.h" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/c_p_demo/lib/widgets/likes_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/c_p_demo/lib/widgets/likes_widget.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +46,13 @@
     "git-widget-placeholder": "main",
     "io.flutter.reload.alreadyRun": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Emil/Documents/GitHub/coding_pirates_demo/c_p_demo/assets",
+    "last_opened_file_path": "C:/Users/Emil/Documents/GitHub/coding_pirates_demo/c_p_demo/lib/widgets",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Emil\Documents\GitHub\coding_pirates_demo\c_p_demo\lib\widgets" />
       <recent name="C:\Users\Emil\Documents\GitHub\coding_pirates_demo\c_p_demo\assets" />
     </key>
   </component>
