@@ -27,16 +27,14 @@ class BulletList extends StatelessWidget {
                 width: 5,
               ),
               Expanded(
-                child: Container(
-                  child: Text(
-                    str,
-                    textAlign: TextAlign.left,
-                    softWrap: true,
-                    style: TextStyle(
-                      fontSize: 16,
-                      color: Colors.black.withOpacity(0.6),
-                      height: 1.55,
-                    ),
+                child: Text(
+                  str,
+                  textAlign: TextAlign.left,
+                  softWrap: true,
+                  style: TextStyle(
+                    fontSize: 16,
+                    color: Colors.black.withOpacity(0.6),
+                    height: 1.55,
                   ),
                 ),
               ),

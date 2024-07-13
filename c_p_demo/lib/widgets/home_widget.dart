@@ -5,32 +5,30 @@ class HomeWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: Center(
-          child: Column(
-            children: <Widget>[
-              const SizedBox(
-                height: 100,
-              ),
-              Image.asset(
+    return const Scaffold(
+        body: Center(
+            child: Column(
+      children: <Widget>[
+        SizedBox(
+          height: 100,
+        ),
+        /*Image.asset(
                 'coding_pirate.png',
                 height: 160,
                 width: 160,
-              ),
-              const SizedBox(
-                height: 100
-              ),
-              const Text.rich(
-                TextSpan(
-                  text: 'Hej! Det her er min', // default text style
-                  children: <TextSpan>[
-                    TextSpan(text: ' Coding Pirates app! ', style: TextStyle(fontWeight: FontWeight.bold)),
-                  ],
-                ),
-              )
+              ),*/
+        SizedBox(height: 100),
+        Text.rich(
+          TextSpan(
+            text: 'Hej! Det her er min', // default text style
+            children: <TextSpan>[
+              TextSpan(
+                  text: ' Coding Pirates app! ',
+                  style: TextStyle(fontWeight: FontWeight.bold)),
             ],
-          )
-      )
-    );
+          ),
+        )
+      ],
+    )));
   }
 }

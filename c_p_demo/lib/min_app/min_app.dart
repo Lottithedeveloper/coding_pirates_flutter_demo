@@ -27,8 +27,8 @@ class BottomNavigationBarExample extends StatefulWidget {
 class _BottomNavigationBarExampleState
     extends State<BottomNavigationBarExample> {
   int _selectedIndex = 0;
-  static const TextStyle optionStyle =
-  TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
+  //static const TextStyle optionStyle =
+  //TextStyle(fontSize: 30, fontWeight: FontWeight.bold);
   static const List<Widget> _widgetOptions = <Widget>[
     HomeWidget(),
     FactsWidget(),
@@ -47,7 +47,7 @@ class _BottomNavigationBarExampleState
       appBar: AppBar(
         centerTitle: true,
         title: const Text('Min app'),
-        backgroundColor:Colors.lightBlue[300],
+        backgroundColor: Colors.lightBlue[300],
       ),
       body: Center(
         child: _widgetOptions.elementAt(_selectedIndex),
